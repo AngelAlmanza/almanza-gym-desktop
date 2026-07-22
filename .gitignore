@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+
+# Frontend build output
+dist/
+dist-ssr/
+coverage/
+
+# Tauri / Rust build output
+src-tauri/target/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Local databases and app data snapshots
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Tool caches
+.eslintcache
+.stylelintcache
+.vite/

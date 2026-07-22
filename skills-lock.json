@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "interface-design": {
+      "source": "dammyjay93/interface-design",
+      "sourceType": "github",
+      "computedHash": "d004c5e5e2e7132e1d64e9c2a339db7f7aaa69053a5c19cddc210dd35dd6fff5"
+    },
+    "tauri-v2": {
+      "source": "nodnarbnitram/claude-code-extensions",
+      "sourceType": "github",
+      "computedHash": "72248dbe36769a12c38c07437063cc5a1ad2d182fee87fb72d92a8fa37ce4a0f"
+    },
+    "vue-best-practices": {
+      "source": "hyf0/vue-skills",
+      "sourceType": "github",
+      "computedHash": "3df585ad31aec78fe55c56c1411262737e6b231677a3153dec512a882fde80cd"
+    }
+  }
+}
